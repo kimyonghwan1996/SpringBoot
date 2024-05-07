@@ -1,0 +1,7 @@
+package main.controller;
+
+@Controller
+public class MainController {
+    @get
+
+}
