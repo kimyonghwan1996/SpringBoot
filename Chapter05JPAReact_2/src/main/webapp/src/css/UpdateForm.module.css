@@ -1,0 +1,11 @@
+table{
+	border-collapse: collapse;
+}
+th, td{
+	padding: 5px;
+}
+#updateForm div {
+	font-size: 8pt;
+	font-weight: bold;
+	color: red;
+}

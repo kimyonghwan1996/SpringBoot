@@ -1,0 +1,16 @@
+        body{
+            text-align: center;
+        }
+        /* 실제 컨텐츠를 포함하는 컨테이너 요소 */
+        .container {
+            display: inline-block;
+            vertical-align: middle;
+            text-align: left; /* 컨텐츠의 가로 정렬을 왼쪽으로 */
+        }
+        th, td{
+            padding: 5px;
+        }
+        div{
+            color: red;
+            font-size: small;
+        }
